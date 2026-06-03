@@ -34,3 +34,6 @@ python Main.py
 
 ## Author
 Arun Patel
+
+## GUI Interface
+![GUI Interface](gui-interface.png)
